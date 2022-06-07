@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align='center'>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,36 +13,34 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<div align='center'>
+  
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/abdooo786?label=Follow%20Me&style=social)](https://github.com/abdooo786)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-abdulrahman%20yasser-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/abdu74//)
+[![Mail](https://img.shields.io/badge/abdu.ya74@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdu.ya74@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-abdulrahman_Yasser-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abdu_ya74)
+</br>
 <img src="https://komarev.com/ghpvc/?username=abdooo768&style=flat-square&color=blue" alt=""/>
-### 👋 Hi there 👋
-### 😄 I'm Ahmed Radwan 😄 
-### ⚡ Yonohub Developer Advocate ⚡
-### I love working on different technologies in Autonomous Vehicles and Robotics
+</div>
+
+<h1>
+👋 hi there 👋<br>
+😄 I'm Abdulrahman Yasser 😄 <br>
+⚡ Embedded System Software Engineer ⚡
+</h1>
+<h3>
+  I love working on different technologies in Embedded Systems.<br>
+  And i have great passion in Deep Learning, Autonomous Vehicles and Robotics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
+<h4>
+  i'll will add more soon
+</h4>
 <div align="center">
   <img src="https://media.giphy.com/media/of43wZ8LZYPGhLeXh7/giphy-downsized.gif" width="300" height="300"/>
 </div>
-
----
-
-### :man_technologist: About Me :
-
-I am an Embedded System Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt :egypt: :palestinian_territories: .
-
-
-- :telescope: I’m working as an Embedded Software Engineer.
-
-- :robot: I have experince in ROS (Robotic Operating System).
-
-- :spiral_notepad: I have small experince in Deep Learining Applications
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I try to learn a new technology.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -56,8 +54,7 @@ I am an Embedded System Software Engineer <img src="https://media.giphy.com/medi
   <img src="https://download.logo.wine/logo/Atmel/Atmel-Logo.wine.png" title="Atmel" alt="Atmel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line.svg" title="Raspberry pi" alt="Raspberry pi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-</div>
-<div>
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -67,9 +64,11 @@ I am an Embedded System Software Engineer <img src="https://media.giphy.com/medi
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
 </div>
-  
-  
-  
- 
+---
 
+### :fire: My Stats :  
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdooo786&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdooo786)](https://github.com/anuraghazra/github-readme-stats)
 
