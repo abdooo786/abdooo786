@@ -33,11 +33,11 @@
 </h1>
 <h3>
   I love working on different microcontrollers in Embedded Systems.<br>
-  And i have great passion in Deep Learning, Autonomous Vehicles and Robotics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  And i have great passion in Deep Learning, Autonomous Vehicles and Robotics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br>
   Currently i'm focusing on learning more and more in embedded systems, Robotic operating system and some deep learning applications
 </h3>
 <h4>
-  i'll will add more soon
+  i'll will add more project's soon
 </h4>
 <div align="center">
   <img src="https://media.giphy.com/media/of43wZ8LZYPGhLeXh7/giphy-downsized.gif" width="300" height="300"/>
