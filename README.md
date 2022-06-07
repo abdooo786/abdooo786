@@ -32,7 +32,7 @@
 ⚡ Embedded System Software Engineer ⚡
 </h1>
 <h3>
-  I love working on different technologies in Embedded Systems.<br>
+  I love working on different microcontrollers in Embedded Systems.<br>
   And i have great passion in Deep Learning, Autonomous Vehicles and Robotics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 <h4>
