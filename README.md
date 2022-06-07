@@ -34,6 +34,7 @@
 <h3>
   I love working on different microcontrollers in Embedded Systems.<br>
   And i have great passion in Deep Learning, Autonomous Vehicles and Robotics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Currently i'm focusing on learning more and more in embedded systems, Robotic operating system and some deep learning applications
 </h3>
 <h4>
   i'll will add more soon
