@@ -19,9 +19,9 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Abdulrahman-Yasser?label=Follow%20Me&style=social)](https://github.com/Abdulrahman-Yasser)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-abdulrahman%20yasser-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/abdu74//)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%20-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/abdu74//)
 [![Mail](https://img.shields.io/badge/abdu.ya74@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdu.ya74@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-abdulrahman_Yasser-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abdu_ya74)
+[![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abdu_ya74)
 </br>
 <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Yasser&style=flat-square&color=blue" alt=""/>
 </div>
