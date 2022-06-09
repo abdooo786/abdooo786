@@ -43,9 +43,11 @@
   <img src="https://media.giphy.com/media/of43wZ8LZYPGhLeXh7/giphy-downsized.gif" width="300" height="300"/>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+<div align='center'>
+<h3>
+:hammer_and_wrench: Languages and Tools :
+</h3>
 
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="C Make" alt="C Make" width="40" height="40"/>&nbsp;
@@ -65,12 +67,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
 </div>
----
 
-### :fire: My Stats :  
+<div align='center'>
+<h3>
+---<br>
+:fire: My Stats :  
+</h3>
   
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdulrahman-Yasser&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Yasser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
