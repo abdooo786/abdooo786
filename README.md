@@ -2,78 +2,20 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align='center'>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <div align='center'>
   
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Abdulrahman-Yasser?label=Follow%20Me&style=social)](https://github.com/Abdulrahman-Yasser)
+📝 ***Feel free to contact me. I am always here ...*** [![Github](https://img.shields.io/github/followers/Abdulrahman-Yasser?label=Follow%20Me&style=social)](https://github.com/Abdulrahman-Yasser)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%20-blue?logo=Linkedin&logoColor=blue&labelColor=black)](www.linkedin.com/in/abdu74//)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%20-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/abdulrahman--yasser/)
 [![Mail](https://img.shields.io/badge/abdu.ya74@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdu.ya74@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abdu_ya74)
 </br>
 <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Yasser&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
-👋 hi there 👋<br>
-😄 I'm Abdulrahman Yasser 😄 <br>
-⚡ Embedded System Software Engineer ⚡
-</h1>
-<h3>
-  I love working on different microcontrollers in Embedded Systems.<br>
-  And i have great passion in Deep Learning, Autonomous Vehicles and Robotics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br>
-  Currently i'm focusing on learning more and more in embedded systems, Robotic operating system and some deep learning applications
-</h3>
-<h4>
-  i'll will add more project's soon
-</h4>
-<div align="center">
-  <img src="https://media.giphy.com/media/of43wZ8LZYPGhLeXh7/giphy-downsized.gif" width="300" height="300"/>
-</div>
-
-<div align='center'>
-<h3>
-:hammer_and_wrench: Languages and Tools :
-</h3>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="C Make" alt="C Make" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
-  <img src="https://icomoon.io/iconsabf18a1/4/148.svg" title="Code composer studio" alt="Code composer studio" width="40" height="40"/>&nbsp;
-  <img src="https://download.logo.wine/logo/Atmel/Atmel-Logo.wine.png" title="Atmel" alt="Atmel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line.svg" title="Raspberry pi" alt="Raspberry pi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCv" alt="OpenCv" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
-</div>
-
-<div align='center'>
-<h3>
----<br>
 :fire: My Stats :  
-</h3>
-  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdulrahman-Yasser&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
