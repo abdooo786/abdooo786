@@ -59,7 +59,7 @@
 
  ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/g2K85JqQ/Connection.gif"> Connect with me :
 <a href="https://www.linkedin.com/in/abdulrahman--yasser/" target="blank"><img align="center" src="https://i.postimg.cc/DzBwjjG5/Linkedin.gif" alt="mohammad-ohidul-alam/" height="80" width="80" /></a>
-<a href="Abdulrahman Yasser#7967" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="ohidul_alam#0087" height="80" width="80" /></a>
+<a href="Abdulrahman Yasser#7967" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="Abdulrahman Yasser#7967" height="80" width="80" /></a>
 
 <br/>
 
