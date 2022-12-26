@@ -57,32 +57,9 @@
 
 <br/>
 
-## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/qRHtvHLy/Column-Up.gif"> Competitive Programming :
-<div align="center">
-<img height="280em" src="https://raw.githubusercontent.com/Abdulrahman-Yasser/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
- </div>
- 
- <div align="center">
-<a href="https://codeforces.com/profile/abduYa74">
-    <img src="https://raw.githubusercontent.com/Abdulrahman-Yasser/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="https://codeforces.com/profile/abduYa74">
-    <img src="https://raw.githubusercontent.com/Abdulrahman-Yasser/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
-  </a>
-</div>
-
-<br/>
-  
  ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/g2K85JqQ/Connection.gif"> Connect with me :
-<div align="center">
- <a href="https://codeforces.com/profile/ohidul_alam" target="blank"><img align="center" src="https://i.postimg.cc/P5Ht4zBJ/Code-Forces.gif" alt="ohidul_alam" height="80" width="80" /></a>
- <a href="#" target="blank"><img align="center" src="https://i.postimg.cc/JzzNGJPD/Leetcode.gif" alt="oanoyon" height="80" width="80" /></a>
- <a href="https://www.hackerrank.com/mdnoyonctg15" target="blank"><img align="center" src="https://i.postimg.cc/L5B9Pxmz/Hackerrank.gif" alt="mdnoyonctg15" height="80" width="80" /></a>
-<a href="https://linkedin.com/in/mohammad-ohidul-alam/" target="blank"><img align="center" src="https://i.postimg.cc/DzBwjjG5/Linkedin.gif" alt="mohammad-ohidul-alam/" height="80" width="80" /></a>
-<a href="https://stackoverflow.com/users/mohammad-ohidul-alam" target="blank"><img align="center" src="https://i.postimg.cc/KcsJSmFh/Stackoverflow.gif" alt="mohammad-ohidul-alam" height="80" width="80" /></a>
-<a href="https://discord.gg/ohidul_alam#0087" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="ohidul_alam#0087" height="80" width="80" /></a>
- <a href="https://twitter.com/oanoyon" target="blank"><img align="center" src="https://i.postimg.cc/sDt6WTGQ/Twitter.gif" alt="oanoyon" height="80" width="80" /></a>
-</div>
+<a href="https://www.linkedin.com/in/abdulrahman--yasser/" target="blank"><img align="center" src="https://i.postimg.cc/DzBwjjG5/Linkedin.gif" alt="mohammad-ohidul-alam/" height="80" width="80" /></a>
+<a href="Abdulrahman Yasser#7967" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="ohidul_alam#0087" height="80" width="80" /></a>
 
 <br/>
 
