@@ -63,10 +63,10 @@
  </div>
  
  <div align="center">
-<a href="https://codeforces.com/profile/ohidul_alam">
+<a href="https://codeforces.com/profile/abduYa74">
     <img src="https://raw.githubusercontent.com/Abdulrahman-Yasser/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/ohidul_alam">
+  <a href="https://codeforces.com/profile/abduYa74">
     <img src="https://raw.githubusercontent.com/Abdulrahman-Yasser/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
 </div>
