@@ -17,11 +17,11 @@
 
 :fire: My Stats :  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdulrahman-Yasser&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Yasser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdulrahman-Yasser&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Yasser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
+ -->
  <div align="center">
     <a href="https://github.com/Abdulrahman-Yasser/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdulrahman-Yasser's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Yasser&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
@@ -63,13 +63,6 @@
 
 <br/>
 
-## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/YCttXqSv/Star-1.gif"> Views and Followers :
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Yasser&label=Profile%20views&color=0e75b6&style=flat" alt="Abdulrahman-Yasser" /> 
-  <a href="https://twitter.com/oanoyon" target="blank"><img src="https://img.shields.io/twitter/follow/oanoyon?logo=twitter&style=for-the-badge" alt="oanoyon" /></a>
-  <a href="https://github.com/Abdulrahman-Yasser?tab=followers"><img src="https://img.shields.io/github/followers/Abdulrahman-Yasser?label=Followers&style=social" alt="GitHub Badge"></a>
-</div>
-
-<br/>
 
 ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/gk7SnwbR/Dice.gif"> Let the snake swallow :
 <div align="center">
