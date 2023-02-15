@@ -11,7 +11,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%20-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/abdulrahman--yasser/)
 [![Mail](https://img.shields.io/badge/abdu.ya74@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:abdu.ya74@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/abdu_ya74)
-[![CodeForce](https://img.shields.io/badge/CodeForce-brightgreen?logo=HackerRank&logoColor=Yellow&labelColor=black)](https://codeforces.com/profile/abduYa74)
+[![CodeForce](https://img.shields.io/badge/CodeForce-brightgreen?logo=CodeForce&logoColor=Yellow&labelColor=black)](https://codeforces.com/profile/abduYa74)
 </br>
 <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Yasser&style=flat-square&color=blue" alt=""/>
 </div>
