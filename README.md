@@ -60,7 +60,7 @@
 
  ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/g2K85JqQ/Connection.gif"> Connect with me :
 <a href="https://www.linkedin.com/in/abdulrahman--yasser/" target="blank"><img align="center" src="https://i.postimg.cc/DzBwjjG5/Linkedin.gif" alt="Abdulrahman-Yasser/" height="80" width="80" /></a>
-<a href="https://discord.gg/Abdulrahman-Yasser#7967" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="Abdulrahman-Yasser#7967" height="80" width="80" /></a>
+<a href="https://discordapp.com/channels/@me/Abdulrahman-Yasser#7967" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="Abdulrahman-Yasser#7967" height="80" width="80" /></a>
 
 <br/>
 
