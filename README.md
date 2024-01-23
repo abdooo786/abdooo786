@@ -15,7 +15,9 @@
 </br>
 <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Yasser&style=flat-square&color=blue" alt=""/>
 </div>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/of43wZ8LZYPGhLeXh7/giphy-downsized.gif" width="300" height="300"/>
+</div>
 :fire: My Stats :  
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdulrahman-Yasser&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
