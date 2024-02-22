@@ -72,12 +72,16 @@
 <a href="https://discordapp.com/channels/@me/Abdulrahman-Yasser#7967" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="Abdulrahman-Yasser#7967" height="80" width="80" /></a>
 
 <br> <br>
+
+<p style="font-family:'Courier New'">Each image below has a video that descripe the reality.<br>But the reality is way worse than the ART below. Press on the image to watch the reality, but take care because it might be +18 content.</p>
+
+
 <div align="top">
 <img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/e90ab778-2d1d-4486-8ba7-8db5ffc34f22" width="15%" height="15%">
 <img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/2e4040b5-0fa9-4e7d-a566-255577373e25" width="15%" height="15%">
 <img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/9c2dfe83-fcec-45e0-8c69-1f4e3d1ed608" width="15%" height="15%">
-<img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/b63f0abc-ccef-4b7e-9325-22787820778e" width="15%" height="15%">
-<img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/e0c3c5ce-db28-4d52-b17e-39cefa113b5a" width="15%" height="15%">
+<a href="https://www.youtube.com/watch?v=SF-Fxo4aMNE" target="blank"><img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/b63f0abc-ccef-4b7e-9325-22787820778e" width="15%" height="15%"/></a>
+<a href="https://www.youtube.com/watch?v=a9nlUPKLBnU" target="blank"><img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/e0c3c5ce-db28-4d52-b17e-39cefa113b5a" width="15%" height="15%"/></a>
 <img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/2a2a931b-098b-4590-be3a-752ea188197b" width="15%" height="15%">
 <img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/101968b4-0594-46c0-8f9b-6fc1c261cd0d" width="15%" height="15%">
 <img align="top" src="https://github.com/Abdulrahman-Yasser/Abdulrahman-Yasser/assets/63866803/b7a58652-e62a-41a4-b142-ca1ccf5c438b" width="15%" height="15%">
