@@ -73,7 +73,7 @@
 
 <br> <br>
 
-<p style="font-family:'Courier New'">Each image below has a video that descripe the reality.<br>But the reality is way worse than the ART below. Press on the image to watch the reality, but take care because it might be +18 content.</p>
+<p style="font-family:'Courier New'">You may see some ART, but please know, the reality is much worse.</p>
 
 
 <div align="top">
