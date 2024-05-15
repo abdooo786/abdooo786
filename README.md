@@ -73,7 +73,7 @@
 
 <br> <br>
 
-<p style="font-family:'Courier New'">You may see some ART, but please know, the reality is much worse.</p>
+<p style="font-family:'Courier New'">You may see some ART, but please keep in mind, the reality is much worse.</p>
 
 
 <div align="top">
